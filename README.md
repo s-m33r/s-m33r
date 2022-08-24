@@ -1,5 +1,5 @@
 - 👋 Hi, I’m s-m33r!
-- 👀 I’m interested in low-level programming in general, along with a **lot** of other stuff obviously.
+- 👀 I’m interested in embedded systems & low-level programming in general, along with a **lot** of other stuff obviously.
 - 🌱 I’m currently honing improving my basic C skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
