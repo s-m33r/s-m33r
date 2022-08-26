@@ -1,7 +1,6 @@
 - 👋 Hi, I’m s-m33r!
 - 👀 I’m interested in embedded systems & low-level programming in general, along with a **lot** of other stuff obviously.
-- 🌱 I’m currently improving my basic C skills.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently improving my basic C skills and learning Go.
 - 📫 How to reach me -> `wxf0ubtv@anonaddy.me`
 
 <!---
