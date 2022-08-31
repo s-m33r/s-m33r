@@ -12,7 +12,7 @@ hi,
 ```
 
 - 👀 I’m interested in embedded systems & low-level programming in general. I dabble around in webdev, too from time to time.
-- 🌱 I’m currently improving my Python skills and learning Go. I have basic C experience, but more practice is planned.  
+- 🌱 I’m currently improving my Python, JS skills and learning Go. I have basic C experience, but more practice is planned.  
 - 🔧 I generally use Python to quickly hack things together. For embedded stuff I am currently using [micropython](https://micropython.org/).  
 - 📫 How to reach me -> `wxf0ubtv@anonaddy.me`
 
