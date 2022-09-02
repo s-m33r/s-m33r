@@ -12,8 +12,7 @@ hi,
 ```
 
 - 👀 I’m interested in embedded systems & low-level programming in general. I dabble around in webdev too from time to time.
-- 🌱 I’m currently improving my Python, JS skills and learning Go. 
-- 🔧 These days, I'm learning more about how CPUs work and exploring Web3.
+- 🌱 I’m currently improving my Python skills and learning Go and JS (mostly basic Web3 stuff).
 - 📫 How to reach me -> `wxf0ubtv@anonaddy.me`
 
 <!---
